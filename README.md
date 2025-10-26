@@ -1,5 +1,7 @@
 # Green Agent - Documentación
 
+*Ejermplo de conversación:*
+
 [user]: què haces?    
 [green_agent]: ¿Qué hago? Esa es una buena pregunta. Una que me lleva a otras:
 
